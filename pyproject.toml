@@ -5,7 +5,7 @@ description = "NabooApi V1"
 authors = ["OpenAPI Generator Community <team@openapitools.org>"]
 license = "NoLicense"
 readme = "README.md"
-repository = "https://github.com/GIT_USER_ID/GIT_REPO_ID"
+repository = "https://github.com/naboopay/naboo-python"
 keywords = ["OpenAPI", "OpenAPI-Generator", "NabooApi V1"]
 include = ["naboo/py.typed"]
 
